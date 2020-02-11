@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bucketlist</string>
+
+    <string-array name="list_items">
+
+        <item>BasketBall</item>
+        <item>Computer</item>
+        <item>Game</item>
+        <item>Grade</item>
+        <item>Jogging</item>
+        <item>Pool</item>
+        <item>Restaurant</item>
+        <item>RockClimbing</item>
+        <item>VideoGame</item>
+        <item>Library</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+        <item>Random description</item>
+    </string-array>
+</resources>
