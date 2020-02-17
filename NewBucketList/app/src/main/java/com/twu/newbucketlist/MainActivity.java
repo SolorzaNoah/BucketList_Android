@@ -29,12 +29,12 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar mToolbar;
     private RecyclerView recyclerView;
     private RecyclerView.Adapter mAdapter;
-    ArrayList<BucketItem> mBucketList;
+
     private int currentPos;
     //private String newS1, newS2;
 
-    public static final String EXTRA_MESSAGE =
-            "com.twu.newbucketlist.extra.MESSAGE";
+    //public static final String EXTRA_MESSAGE =
+    //        "com.twu.newbucketlist.extra.MESSAGE";
 
 
     String  s2[];
