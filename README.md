@@ -21,9 +21,11 @@ The app was made to be compatible for Nougat 7.0.
 As evidenced by our multiple applications, we learned (by failure) that simple 
 implementations were not going to suffice. We learned to differentiate between the
 different types of layouts and their specific properties inside of the .xml 
-document. Recycler view vs cardview, listview and gridview indirectly despite
-the assignment required us to use recyclerview specifically. How to use an adapter
-for recycler view. How to call by R.id inbetween files. How to use both the 
+document; RelativeLayout and CoordinatedLayout were personal favorites.
+Recycler view vs cardview, listview and gridview indirectly learned of despite
+the assignment requiring us to use recyclerview specifically. How to use an adapter
+for recycler view as a required sub class. The optimization of memory usage that
+comes with using recyclerview vs the other types. How to call by R.id inbetween files. How to use both the 
 Design and Text tabs for ease as sometimes it was easier to add an element by
 text rather than using the GUI tools; however, the GUI proved very useful when 
 we didn't know proper syntax of the .xml documents. We learned the use of images
@@ -31,7 +33,7 @@ into our app through the drawable folder. The existence and utilization of vario
 dependencies for our app inside of the gradle. The importance of interdependencies 
 throughout the code and the importance of maintaining it clean and organized. We learned
 how hard it is to develop an App in 2 weeks with no book, limited and unspecific random 
-tutorials and minimal guidance.
+tutorials and minimal guidance. 
 
 **First Milestone**
 First android app -  7.0 Nougat
